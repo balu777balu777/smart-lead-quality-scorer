@@ -1,6 +1,6 @@
 SMART LEAD QUALITY SCORER
 -------------------------------------
-Creator: Rahul (Vijayawada)
+Creator: Balu (Vijayawada)
 Submission: Caprae AI Readiness Challenge
 
 Project Goal:
